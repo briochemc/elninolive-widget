@@ -106,7 +106,7 @@ export default async function WidgetEmbedPage(
             </div>
           </div>
           <a
-            href={`${site.url}/?utm_source=widget&utm_medium=embed`}
+            href={`${site.url}/`}
             target="_blank"
             rel="noopener"
             className="text-[10px] font-medium text-ink-muted underline decoration-line underline-offset-2 hover:text-ink"
