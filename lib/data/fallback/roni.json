@@ -1,0 +1,4590 @@
+{
+  "savedAt": "2026-07-30T16:31:14.544Z",
+  "rows": [
+    {
+      "season": "DJF",
+      "year": 1950,
+      "value": -1.5
+    },
+    {
+      "season": "JFM",
+      "year": 1950,
+      "value": -1.3
+    },
+    {
+      "season": "FMA",
+      "year": 1950,
+      "value": -1.1
+    },
+    {
+      "season": "MAM",
+      "year": 1950,
+      "value": -1.1
+    },
+    {
+      "season": "AMJ",
+      "year": 1950,
+      "value": -1
+    },
+    {
+      "season": "MJJ",
+      "year": 1950,
+      "value": -0.7
+    },
+    {
+      "season": "JJA",
+      "year": 1950,
+      "value": -0.4
+    },
+    {
+      "season": "JAS",
+      "year": 1950,
+      "value": -0.2
+    },
+    {
+      "season": "ASO",
+      "year": 1950,
+      "value": -0.2
+    },
+    {
+      "season": "SON",
+      "year": 1950,
+      "value": -0.3
+    },
+    {
+      "season": "OND",
+      "year": 1950,
+      "value": -0.4
+    },
+    {
+      "season": "NDJ",
+      "year": 1950,
+      "value": -0.6
+    },
+    {
+      "season": "DJF",
+      "year": 1951,
+      "value": -0.5
+    },
+    {
+      "season": "JFM",
+      "year": 1951,
+      "value": -0.2
+    },
+    {
+      "season": "FMA",
+      "year": 1951,
+      "value": 0.3
+    },
+    {
+      "season": "MAM",
+      "year": 1951,
+      "value": 0.6
+    },
+    {
+      "season": "AMJ",
+      "year": 1951,
+      "value": 0.6
+    },
+    {
+      "season": "MJJ",
+      "year": 1951,
+      "value": 0.7
+    },
+    {
+      "season": "JJA",
+      "year": 1951,
+      "value": 0.7
+    },
+    {
+      "season": "JAS",
+      "year": 1951,
+      "value": 0.8
+    },
+    {
+      "season": "ASO",
+      "year": 1951,
+      "value": 0.9
+    },
+    {
+      "season": "SON",
+      "year": 1951,
+      "value": 1
+    },
+    {
+      "season": "OND",
+      "year": 1951,
+      "value": 0.9
+    },
+    {
+      "season": "NDJ",
+      "year": 1951,
+      "value": 0.8
+    },
+    {
+      "season": "DJF",
+      "year": 1952,
+      "value": 0.6
+    },
+    {
+      "season": "JFM",
+      "year": 1952,
+      "value": 0.4
+    },
+    {
+      "season": "FMA",
+      "year": 1952,
+      "value": 0.4
+    },
+    {
+      "season": "MAM",
+      "year": 1952,
+      "value": 0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 1952,
+      "value": 0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 1952,
+      "value": 0.1
+    },
+    {
+      "season": "JJA",
+      "year": 1952,
+      "value": 0
+    },
+    {
+      "season": "JAS",
+      "year": 1952,
+      "value": 0
+    },
+    {
+      "season": "ASO",
+      "year": 1952,
+      "value": 0.1
+    },
+    {
+      "season": "SON",
+      "year": 1952,
+      "value": 0
+    },
+    {
+      "season": "OND",
+      "year": 1952,
+      "value": 0
+    },
+    {
+      "season": "NDJ",
+      "year": 1952,
+      "value": 0.2
+    },
+    {
+      "season": "DJF",
+      "year": 1953,
+      "value": 0.5
+    },
+    {
+      "season": "JFM",
+      "year": 1953,
+      "value": 0.8
+    },
+    {
+      "season": "FMA",
+      "year": 1953,
+      "value": 0.8
+    },
+    {
+      "season": "MAM",
+      "year": 1953,
+      "value": 0.8
+    },
+    {
+      "season": "AMJ",
+      "year": 1953,
+      "value": 0.8
+    },
+    {
+      "season": "MJJ",
+      "year": 1953,
+      "value": 0.8
+    },
+    {
+      "season": "JJA",
+      "year": 1953,
+      "value": 0.7
+    },
+    {
+      "season": "JAS",
+      "year": 1953,
+      "value": 0.7
+    },
+    {
+      "season": "ASO",
+      "year": 1953,
+      "value": 0.7
+    },
+    {
+      "season": "SON",
+      "year": 1953,
+      "value": 0.8
+    },
+    {
+      "season": "OND",
+      "year": 1953,
+      "value": 0.8
+    },
+    {
+      "season": "NDJ",
+      "year": 1953,
+      "value": 0.9
+    },
+    {
+      "season": "DJF",
+      "year": 1954,
+      "value": 1
+    },
+    {
+      "season": "JFM",
+      "year": 1954,
+      "value": 0.7
+    },
+    {
+      "season": "FMA",
+      "year": 1954,
+      "value": 0.1
+    },
+    {
+      "season": "MAM",
+      "year": 1954,
+      "value": -0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 1954,
+      "value": -0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 1954,
+      "value": -0.3
+    },
+    {
+      "season": "JJA",
+      "year": 1954,
+      "value": -0.5
+    },
+    {
+      "season": "JAS",
+      "year": 1954,
+      "value": -0.7
+    },
+    {
+      "season": "ASO",
+      "year": 1954,
+      "value": -0.8
+    },
+    {
+      "season": "SON",
+      "year": 1954,
+      "value": -0.7
+    },
+    {
+      "season": "OND",
+      "year": 1954,
+      "value": -0.6
+    },
+    {
+      "season": "NDJ",
+      "year": 1954,
+      "value": -0.4
+    },
+    {
+      "season": "DJF",
+      "year": 1955,
+      "value": -0.4
+    },
+    {
+      "season": "JFM",
+      "year": 1955,
+      "value": -0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1955,
+      "value": -0.3
+    },
+    {
+      "season": "MAM",
+      "year": 1955,
+      "value": -0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 1955,
+      "value": -0.4
+    },
+    {
+      "season": "MJJ",
+      "year": 1955,
+      "value": -0.4
+    },
+    {
+      "season": "JJA",
+      "year": 1955,
+      "value": -0.4
+    },
+    {
+      "season": "JAS",
+      "year": 1955,
+      "value": -0.6
+    },
+    {
+      "season": "ASO",
+      "year": 1955,
+      "value": -1
+    },
+    {
+      "season": "SON",
+      "year": 1955,
+      "value": -1.4
+    },
+    {
+      "season": "OND",
+      "year": 1955,
+      "value": -1.6
+    },
+    {
+      "season": "NDJ",
+      "year": 1955,
+      "value": -1.3
+    },
+    {
+      "season": "DJF",
+      "year": 1956,
+      "value": -0.7
+    },
+    {
+      "season": "JFM",
+      "year": 1956,
+      "value": -0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1956,
+      "value": -0.2
+    },
+    {
+      "season": "MAM",
+      "year": 1956,
+      "value": -0.1
+    },
+    {
+      "season": "AMJ",
+      "year": 1956,
+      "value": 0
+    },
+    {
+      "season": "MJJ",
+      "year": 1956,
+      "value": -0.1
+    },
+    {
+      "season": "JJA",
+      "year": 1956,
+      "value": -0.3
+    },
+    {
+      "season": "JAS",
+      "year": 1956,
+      "value": -0.3
+    },
+    {
+      "season": "ASO",
+      "year": 1956,
+      "value": -0.3
+    },
+    {
+      "season": "SON",
+      "year": 1956,
+      "value": -0.3
+    },
+    {
+      "season": "OND",
+      "year": 1956,
+      "value": -0.4
+    },
+    {
+      "season": "NDJ",
+      "year": 1956,
+      "value": -0.2
+    },
+    {
+      "season": "DJF",
+      "year": 1957,
+      "value": 0
+    },
+    {
+      "season": "JFM",
+      "year": 1957,
+      "value": 0.4
+    },
+    {
+      "season": "FMA",
+      "year": 1957,
+      "value": 0.7
+    },
+    {
+      "season": "MAM",
+      "year": 1957,
+      "value": 1
+    },
+    {
+      "season": "AMJ",
+      "year": 1957,
+      "value": 1.1
+    },
+    {
+      "season": "MJJ",
+      "year": 1957,
+      "value": 1.2
+    },
+    {
+      "season": "JJA",
+      "year": 1957,
+      "value": 1.2
+    },
+    {
+      "season": "JAS",
+      "year": 1957,
+      "value": 1.3
+    },
+    {
+      "season": "ASO",
+      "year": 1957,
+      "value": 1.2
+    },
+    {
+      "season": "SON",
+      "year": 1957,
+      "value": 1.3
+    },
+    {
+      "season": "OND",
+      "year": 1957,
+      "value": 1.5
+    },
+    {
+      "season": "NDJ",
+      "year": 1957,
+      "value": 1.9
+    },
+    {
+      "season": "DJF",
+      "year": 1958,
+      "value": 2
+    },
+    {
+      "season": "JFM",
+      "year": 1958,
+      "value": 1.9
+    },
+    {
+      "season": "FMA",
+      "year": 1958,
+      "value": 1.4
+    },
+    {
+      "season": "MAM",
+      "year": 1958,
+      "value": 1.1
+    },
+    {
+      "season": "AMJ",
+      "year": 1958,
+      "value": 0.8
+    },
+    {
+      "season": "MJJ",
+      "year": 1958,
+      "value": 0.7
+    },
+    {
+      "season": "JJA",
+      "year": 1958,
+      "value": 0.5
+    },
+    {
+      "season": "JAS",
+      "year": 1958,
+      "value": 0.3
+    },
+    {
+      "season": "ASO",
+      "year": 1958,
+      "value": 0.2
+    },
+    {
+      "season": "SON",
+      "year": 1958,
+      "value": 0.3
+    },
+    {
+      "season": "OND",
+      "year": 1958,
+      "value": 0.4
+    },
+    {
+      "season": "NDJ",
+      "year": 1958,
+      "value": 0.7
+    },
+    {
+      "season": "DJF",
+      "year": 1959,
+      "value": 0.8
+    },
+    {
+      "season": "JFM",
+      "year": 1959,
+      "value": 0.8
+    },
+    {
+      "season": "FMA",
+      "year": 1959,
+      "value": 0.7
+    },
+    {
+      "season": "MAM",
+      "year": 1959,
+      "value": 0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 1959,
+      "value": 0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 1959,
+      "value": -0.1
+    },
+    {
+      "season": "JJA",
+      "year": 1959,
+      "value": -0.2
+    },
+    {
+      "season": "JAS",
+      "year": 1959,
+      "value": -0.4
+    },
+    {
+      "season": "ASO",
+      "year": 1959,
+      "value": -0.3
+    },
+    {
+      "season": "SON",
+      "year": 1959,
+      "value": -0.3
+    },
+    {
+      "season": "OND",
+      "year": 1959,
+      "value": -0.1
+    },
+    {
+      "season": "NDJ",
+      "year": 1959,
+      "value": 0
+    },
+    {
+      "season": "DJF",
+      "year": 1960,
+      "value": 0
+    },
+    {
+      "season": "JFM",
+      "year": 1960,
+      "value": 0
+    },
+    {
+      "season": "FMA",
+      "year": 1960,
+      "value": 0
+    },
+    {
+      "season": "MAM",
+      "year": 1960,
+      "value": 0.1
+    },
+    {
+      "season": "AMJ",
+      "year": 1960,
+      "value": 0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 1960,
+      "value": 0
+    },
+    {
+      "season": "JJA",
+      "year": 1960,
+      "value": 0.1
+    },
+    {
+      "season": "JAS",
+      "year": 1960,
+      "value": 0.2
+    },
+    {
+      "season": "ASO",
+      "year": 1960,
+      "value": 0.2
+    },
+    {
+      "season": "SON",
+      "year": 1960,
+      "value": 0.1
+    },
+    {
+      "season": "OND",
+      "year": 1960,
+      "value": 0
+    },
+    {
+      "season": "NDJ",
+      "year": 1960,
+      "value": 0
+    },
+    {
+      "season": "DJF",
+      "year": 1961,
+      "value": 0.1
+    },
+    {
+      "season": "JFM",
+      "year": 1961,
+      "value": 0.1
+    },
+    {
+      "season": "FMA",
+      "year": 1961,
+      "value": 0
+    },
+    {
+      "season": "MAM",
+      "year": 1961,
+      "value": 0.1
+    },
+    {
+      "season": "AMJ",
+      "year": 1961,
+      "value": 0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 1961,
+      "value": 0.3
+    },
+    {
+      "season": "JJA",
+      "year": 1961,
+      "value": 0.2
+    },
+    {
+      "season": "JAS",
+      "year": 1961,
+      "value": -0.1
+    },
+    {
+      "season": "ASO",
+      "year": 1961,
+      "value": -0.3
+    },
+    {
+      "season": "SON",
+      "year": 1961,
+      "value": -0.3
+    },
+    {
+      "season": "OND",
+      "year": 1961,
+      "value": -0.2
+    },
+    {
+      "season": "NDJ",
+      "year": 1961,
+      "value": -0.1
+    },
+    {
+      "season": "DJF",
+      "year": 1962,
+      "value": -0.1
+    },
+    {
+      "season": "JFM",
+      "year": 1962,
+      "value": -0.1
+    },
+    {
+      "season": "FMA",
+      "year": 1962,
+      "value": -0.1
+    },
+    {
+      "season": "MAM",
+      "year": 1962,
+      "value": -0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 1962,
+      "value": -0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 1962,
+      "value": -0.2
+    },
+    {
+      "season": "JJA",
+      "year": 1962,
+      "value": -0.1
+    },
+    {
+      "season": "JAS",
+      "year": 1962,
+      "value": -0.2
+    },
+    {
+      "season": "ASO",
+      "year": 1962,
+      "value": -0.2
+    },
+    {
+      "season": "SON",
+      "year": 1962,
+      "value": -0.4
+    },
+    {
+      "season": "OND",
+      "year": 1962,
+      "value": -0.5
+    },
+    {
+      "season": "NDJ",
+      "year": 1962,
+      "value": -0.5
+    },
+    {
+      "season": "DJF",
+      "year": 1963,
+      "value": -0.4
+    },
+    {
+      "season": "JFM",
+      "year": 1963,
+      "value": -0.1
+    },
+    {
+      "season": "FMA",
+      "year": 1963,
+      "value": 0.2
+    },
+    {
+      "season": "MAM",
+      "year": 1963,
+      "value": 0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 1963,
+      "value": 0.2
+    },
+    {
+      "season": "MJJ",
+      "year": 1963,
+      "value": 0.4
+    },
+    {
+      "season": "JJA",
+      "year": 1963,
+      "value": 0.7
+    },
+    {
+      "season": "JAS",
+      "year": 1963,
+      "value": 1
+    },
+    {
+      "season": "ASO",
+      "year": 1963,
+      "value": 1
+    },
+    {
+      "season": "SON",
+      "year": 1963,
+      "value": 1.1
+    },
+    {
+      "season": "OND",
+      "year": 1963,
+      "value": 1.2
+    },
+    {
+      "season": "NDJ",
+      "year": 1963,
+      "value": 1.3
+    },
+    {
+      "season": "DJF",
+      "year": 1964,
+      "value": 1.1
+    },
+    {
+      "season": "JFM",
+      "year": 1964,
+      "value": 0.7
+    },
+    {
+      "season": "FMA",
+      "year": 1964,
+      "value": 0.1
+    },
+    {
+      "season": "MAM",
+      "year": 1964,
+      "value": -0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 1964,
+      "value": -0.6
+    },
+    {
+      "season": "MJJ",
+      "year": 1964,
+      "value": -0.6
+    },
+    {
+      "season": "JJA",
+      "year": 1964,
+      "value": -0.6
+    },
+    {
+      "season": "JAS",
+      "year": 1964,
+      "value": -0.6
+    },
+    {
+      "season": "ASO",
+      "year": 1964,
+      "value": -0.7
+    },
+    {
+      "season": "SON",
+      "year": 1964,
+      "value": -0.8
+    },
+    {
+      "season": "OND",
+      "year": 1964,
+      "value": -0.7
+    },
+    {
+      "season": "NDJ",
+      "year": 1964,
+      "value": -0.5
+    },
+    {
+      "season": "DJF",
+      "year": 1965,
+      "value": -0.2
+    },
+    {
+      "season": "JFM",
+      "year": 1965,
+      "value": 0.1
+    },
+    {
+      "season": "FMA",
+      "year": 1965,
+      "value": 0.2
+    },
+    {
+      "season": "MAM",
+      "year": 1965,
+      "value": 0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 1965,
+      "value": 0.6
+    },
+    {
+      "season": "MJJ",
+      "year": 1965,
+      "value": 1
+    },
+    {
+      "season": "JJA",
+      "year": 1965,
+      "value": 1.4
+    },
+    {
+      "season": "JAS",
+      "year": 1965,
+      "value": 1.7
+    },
+    {
+      "season": "ASO",
+      "year": 1965,
+      "value": 1.9
+    },
+    {
+      "season": "SON",
+      "year": 1965,
+      "value": 2
+    },
+    {
+      "season": "OND",
+      "year": 1965,
+      "value": 2
+    },
+    {
+      "season": "NDJ",
+      "year": 1965,
+      "value": 1.9
+    },
+    {
+      "season": "DJF",
+      "year": 1966,
+      "value": 1.7
+    },
+    {
+      "season": "JFM",
+      "year": 1966,
+      "value": 1.5
+    },
+    {
+      "season": "FMA",
+      "year": 1966,
+      "value": 1.3
+    },
+    {
+      "season": "MAM",
+      "year": 1966,
+      "value": 0.9
+    },
+    {
+      "season": "AMJ",
+      "year": 1966,
+      "value": 0.5
+    },
+    {
+      "season": "MJJ",
+      "year": 1966,
+      "value": 0.3
+    },
+    {
+      "season": "JJA",
+      "year": 1966,
+      "value": 0.3
+    },
+    {
+      "season": "JAS",
+      "year": 1966,
+      "value": 0.1
+    },
+    {
+      "season": "ASO",
+      "year": 1966,
+      "value": 0
+    },
+    {
+      "season": "SON",
+      "year": 1966,
+      "value": -0.1
+    },
+    {
+      "season": "OND",
+      "year": 1966,
+      "value": -0.1
+    },
+    {
+      "season": "NDJ",
+      "year": 1966,
+      "value": -0.2
+    },
+    {
+      "season": "DJF",
+      "year": 1967,
+      "value": -0.2
+    },
+    {
+      "season": "JFM",
+      "year": 1967,
+      "value": -0.2
+    },
+    {
+      "season": "FMA",
+      "year": 1967,
+      "value": -0.4
+    },
+    {
+      "season": "MAM",
+      "year": 1967,
+      "value": -0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 1967,
+      "value": -0.2
+    },
+    {
+      "season": "MJJ",
+      "year": 1967,
+      "value": 0.2
+    },
+    {
+      "season": "JJA",
+      "year": 1967,
+      "value": 0.3
+    },
+    {
+      "season": "JAS",
+      "year": 1967,
+      "value": 0.1
+    },
+    {
+      "season": "ASO",
+      "year": 1967,
+      "value": 0
+    },
+    {
+      "season": "SON",
+      "year": 1967,
+      "value": -0.1
+    },
+    {
+      "season": "OND",
+      "year": 1967,
+      "value": 0
+    },
+    {
+      "season": "NDJ",
+      "year": 1967,
+      "value": 0
+    },
+    {
+      "season": "DJF",
+      "year": 1968,
+      "value": -0.2
+    },
+    {
+      "season": "JFM",
+      "year": 1968,
+      "value": -0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1968,
+      "value": -0.3
+    },
+    {
+      "season": "MAM",
+      "year": 1968,
+      "value": -0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 1968,
+      "value": 0.2
+    },
+    {
+      "season": "MJJ",
+      "year": 1968,
+      "value": 0.5
+    },
+    {
+      "season": "JJA",
+      "year": 1968,
+      "value": 0.7
+    },
+    {
+      "season": "JAS",
+      "year": 1968,
+      "value": 0.6
+    },
+    {
+      "season": "ASO",
+      "year": 1968,
+      "value": 0.5
+    },
+    {
+      "season": "SON",
+      "year": 1968,
+      "value": 0.6
+    },
+    {
+      "season": "OND",
+      "year": 1968,
+      "value": 0.8
+    },
+    {
+      "season": "NDJ",
+      "year": 1968,
+      "value": 1.1
+    },
+    {
+      "season": "DJF",
+      "year": 1969,
+      "value": 1.2
+    },
+    {
+      "season": "JFM",
+      "year": 1969,
+      "value": 1.1
+    },
+    {
+      "season": "FMA",
+      "year": 1969,
+      "value": 0.9
+    },
+    {
+      "season": "MAM",
+      "year": 1969,
+      "value": 0.5
+    },
+    {
+      "season": "AMJ",
+      "year": 1969,
+      "value": 0.4
+    },
+    {
+      "season": "MJJ",
+      "year": 1969,
+      "value": 0.2
+    },
+    {
+      "season": "JJA",
+      "year": 1969,
+      "value": 0.2
+    },
+    {
+      "season": "JAS",
+      "year": 1969,
+      "value": 0.4
+    },
+    {
+      "season": "ASO",
+      "year": 1969,
+      "value": 0.7
+    },
+    {
+      "season": "SON",
+      "year": 1969,
+      "value": 0.8
+    },
+    {
+      "season": "OND",
+      "year": 1969,
+      "value": 0.7
+    },
+    {
+      "season": "NDJ",
+      "year": 1969,
+      "value": 0.6
+    },
+    {
+      "season": "DJF",
+      "year": 1970,
+      "value": 0.5
+    },
+    {
+      "season": "JFM",
+      "year": 1970,
+      "value": 0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1970,
+      "value": 0.3
+    },
+    {
+      "season": "MAM",
+      "year": 1970,
+      "value": 0.1
+    },
+    {
+      "season": "AMJ",
+      "year": 1970,
+      "value": 0
+    },
+    {
+      "season": "MJJ",
+      "year": 1970,
+      "value": -0.3
+    },
+    {
+      "season": "JJA",
+      "year": 1970,
+      "value": -0.6
+    },
+    {
+      "season": "JAS",
+      "year": 1970,
+      "value": -0.7
+    },
+    {
+      "season": "ASO",
+      "year": 1970,
+      "value": -0.7
+    },
+    {
+      "season": "SON",
+      "year": 1970,
+      "value": -0.6
+    },
+    {
+      "season": "OND",
+      "year": 1970,
+      "value": -0.7
+    },
+    {
+      "season": "NDJ",
+      "year": 1970,
+      "value": -0.9
+    },
+    {
+      "season": "DJF",
+      "year": 1971,
+      "value": -1
+    },
+    {
+      "season": "JFM",
+      "year": 1971,
+      "value": -1
+    },
+    {
+      "season": "FMA",
+      "year": 1971,
+      "value": -0.8
+    },
+    {
+      "season": "MAM",
+      "year": 1971,
+      "value": -0.6
+    },
+    {
+      "season": "AMJ",
+      "year": 1971,
+      "value": -0.5
+    },
+    {
+      "season": "MJJ",
+      "year": 1971,
+      "value": -0.4
+    },
+    {
+      "season": "JJA",
+      "year": 1971,
+      "value": -0.4
+    },
+    {
+      "season": "JAS",
+      "year": 1971,
+      "value": -0.4
+    },
+    {
+      "season": "ASO",
+      "year": 1971,
+      "value": -0.5
+    },
+    {
+      "season": "SON",
+      "year": 1971,
+      "value": -0.5
+    },
+    {
+      "season": "OND",
+      "year": 1971,
+      "value": -0.5
+    },
+    {
+      "season": "NDJ",
+      "year": 1971,
+      "value": -0.5
+    },
+    {
+      "season": "DJF",
+      "year": 1972,
+      "value": -0.3
+    },
+    {
+      "season": "JFM",
+      "year": 1972,
+      "value": 0
+    },
+    {
+      "season": "FMA",
+      "year": 1972,
+      "value": 0.4
+    },
+    {
+      "season": "MAM",
+      "year": 1972,
+      "value": 0.8
+    },
+    {
+      "season": "AMJ",
+      "year": 1972,
+      "value": 0.9
+    },
+    {
+      "season": "MJJ",
+      "year": 1972,
+      "value": 1.1
+    },
+    {
+      "season": "JJA",
+      "year": 1972,
+      "value": 1.3
+    },
+    {
+      "season": "JAS",
+      "year": 1972,
+      "value": 1.5
+    },
+    {
+      "season": "ASO",
+      "year": 1972,
+      "value": 1.7
+    },
+    {
+      "season": "SON",
+      "year": 1972,
+      "value": 2
+    },
+    {
+      "season": "OND",
+      "year": 1972,
+      "value": 2.2
+    },
+    {
+      "season": "NDJ",
+      "year": 1972,
+      "value": 2.3
+    },
+    {
+      "season": "DJF",
+      "year": 1973,
+      "value": 2
+    },
+    {
+      "season": "JFM",
+      "year": 1973,
+      "value": 1.4
+    },
+    {
+      "season": "FMA",
+      "year": 1973,
+      "value": 0.6
+    },
+    {
+      "season": "MAM",
+      "year": 1973,
+      "value": -0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 1973,
+      "value": -0.8
+    },
+    {
+      "season": "MJJ",
+      "year": 1973,
+      "value": -1.1
+    },
+    {
+      "season": "JJA",
+      "year": 1973,
+      "value": -1.2
+    },
+    {
+      "season": "JAS",
+      "year": 1973,
+      "value": -1.4
+    },
+    {
+      "season": "ASO",
+      "year": 1973,
+      "value": -1.5
+    },
+    {
+      "season": "SON",
+      "year": 1973,
+      "value": -1.8
+    },
+    {
+      "season": "OND",
+      "year": 1973,
+      "value": -1.9
+    },
+    {
+      "season": "NDJ",
+      "year": 1973,
+      "value": -1.9
+    },
+    {
+      "season": "DJF",
+      "year": 1974,
+      "value": -1.5
+    },
+    {
+      "season": "JFM",
+      "year": 1974,
+      "value": -1.2
+    },
+    {
+      "season": "FMA",
+      "year": 1974,
+      "value": -0.9
+    },
+    {
+      "season": "MAM",
+      "year": 1974,
+      "value": -0.9
+    },
+    {
+      "season": "AMJ",
+      "year": 1974,
+      "value": -0.8
+    },
+    {
+      "season": "MJJ",
+      "year": 1974,
+      "value": -0.6
+    },
+    {
+      "season": "JJA",
+      "year": 1974,
+      "value": -0.4
+    },
+    {
+      "season": "JAS",
+      "year": 1974,
+      "value": -0.2
+    },
+    {
+      "season": "ASO",
+      "year": 1974,
+      "value": -0.2
+    },
+    {
+      "season": "SON",
+      "year": 1974,
+      "value": -0.4
+    },
+    {
+      "season": "OND",
+      "year": 1974,
+      "value": -0.4
+    },
+    {
+      "season": "NDJ",
+      "year": 1974,
+      "value": -0.2
+    },
+    {
+      "season": "DJF",
+      "year": 1975,
+      "value": -0.1
+    },
+    {
+      "season": "JFM",
+      "year": 1975,
+      "value": -0.1
+    },
+    {
+      "season": "FMA",
+      "year": 1975,
+      "value": -0.3
+    },
+    {
+      "season": "MAM",
+      "year": 1975,
+      "value": -0.5
+    },
+    {
+      "season": "AMJ",
+      "year": 1975,
+      "value": -0.6
+    },
+    {
+      "season": "MJJ",
+      "year": 1975,
+      "value": -0.8
+    },
+    {
+      "season": "JJA",
+      "year": 1975,
+      "value": -0.9
+    },
+    {
+      "season": "JAS",
+      "year": 1975,
+      "value": -0.9
+    },
+    {
+      "season": "ASO",
+      "year": 1975,
+      "value": -1
+    },
+    {
+      "season": "SON",
+      "year": 1975,
+      "value": -1
+    },
+    {
+      "season": "OND",
+      "year": 1975,
+      "value": -1.1
+    },
+    {
+      "season": "NDJ",
+      "year": 1975,
+      "value": -1.1
+    },
+    {
+      "season": "DJF",
+      "year": 1976,
+      "value": -1
+    },
+    {
+      "season": "JFM",
+      "year": 1976,
+      "value": -0.6
+    },
+    {
+      "season": "FMA",
+      "year": 1976,
+      "value": -0.3
+    },
+    {
+      "season": "MAM",
+      "year": 1976,
+      "value": -0.1
+    },
+    {
+      "season": "AMJ",
+      "year": 1976,
+      "value": 0
+    },
+    {
+      "season": "MJJ",
+      "year": 1976,
+      "value": 0.2
+    },
+    {
+      "season": "JJA",
+      "year": 1976,
+      "value": 0.5
+    },
+    {
+      "season": "JAS",
+      "year": 1976,
+      "value": 0.7
+    },
+    {
+      "season": "ASO",
+      "year": 1976,
+      "value": 0.9
+    },
+    {
+      "season": "SON",
+      "year": 1976,
+      "value": 1.1
+    },
+    {
+      "season": "OND",
+      "year": 1976,
+      "value": 1.1
+    },
+    {
+      "season": "NDJ",
+      "year": 1976,
+      "value": 1.1
+    },
+    {
+      "season": "DJF",
+      "year": 1977,
+      "value": 1
+    },
+    {
+      "season": "JFM",
+      "year": 1977,
+      "value": 0.9
+    },
+    {
+      "season": "FMA",
+      "year": 1977,
+      "value": 0.5
+    },
+    {
+      "season": "MAM",
+      "year": 1977,
+      "value": 0.3
+    },
+    {
+      "season": "AMJ",
+      "year": 1977,
+      "value": 0.2
+    },
+    {
+      "season": "MJJ",
+      "year": 1977,
+      "value": 0.4
+    },
+    {
+      "season": "JJA",
+      "year": 1977,
+      "value": 0.4
+    },
+    {
+      "season": "JAS",
+      "year": 1977,
+      "value": 0.6
+    },
+    {
+      "season": "ASO",
+      "year": 1977,
+      "value": 0.8
+    },
+    {
+      "season": "SON",
+      "year": 1977,
+      "value": 1
+    },
+    {
+      "season": "OND",
+      "year": 1977,
+      "value": 1.1
+    },
+    {
+      "season": "NDJ",
+      "year": 1977,
+      "value": 1.1
+    },
+    {
+      "season": "DJF",
+      "year": 1978,
+      "value": 0.9
+    },
+    {
+      "season": "JFM",
+      "year": 1978,
+      "value": 0.6
+    },
+    {
+      "season": "FMA",
+      "year": 1978,
+      "value": 0.1
+    },
+    {
+      "season": "MAM",
+      "year": 1978,
+      "value": -0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 1978,
+      "value": -0.4
+    },
+    {
+      "season": "MJJ",
+      "year": 1978,
+      "value": -0.3
+    },
+    {
+      "season": "JJA",
+      "year": 1978,
+      "value": -0.3
+    },
+    {
+      "season": "JAS",
+      "year": 1978,
+      "value": -0.3
+    },
+    {
+      "season": "ASO",
+      "year": 1978,
+      "value": -0.2
+    },
+    {
+      "season": "SON",
+      "year": 1978,
+      "value": 0
+    },
+    {
+      "season": "OND",
+      "year": 1978,
+      "value": 0.2
+    },
+    {
+      "season": "NDJ",
+      "year": 1978,
+      "value": 0.2
+    },
+    {
+      "season": "DJF",
+      "year": 1979,
+      "value": 0.2
+    },
+    {
+      "season": "JFM",
+      "year": 1979,
+      "value": 0.2
+    },
+    {
+      "season": "FMA",
+      "year": 1979,
+      "value": 0.2
+    },
+    {
+      "season": "MAM",
+      "year": 1979,
+      "value": 0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 1979,
+      "value": 0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 1979,
+      "value": -0.1
+    },
+    {
+      "season": "JJA",
+      "year": 1979,
+      "value": 0
+    },
+    {
+      "season": "JAS",
+      "year": 1979,
+      "value": 0.2
+    },
+    {
+      "season": "ASO",
+      "year": 1979,
+      "value": 0.4
+    },
+    {
+      "season": "SON",
+      "year": 1979,
+      "value": 0.5
+    },
+    {
+      "season": "OND",
+      "year": 1979,
+      "value": 0.5
+    },
+    {
+      "season": "NDJ",
+      "year": 1979,
+      "value": 0.7
+    },
+    {
+      "season": "DJF",
+      "year": 1980,
+      "value": 0.6
+    },
+    {
+      "season": "JFM",
+      "year": 1980,
+      "value": 0.5
+    },
+    {
+      "season": "FMA",
+      "year": 1980,
+      "value": 0.3
+    },
+    {
+      "season": "MAM",
+      "year": 1980,
+      "value": 0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 1980,
+      "value": 0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 1980,
+      "value": 0.3
+    },
+    {
+      "season": "JJA",
+      "year": 1980,
+      "value": 0.2
+    },
+    {
+      "season": "JAS",
+      "year": 1980,
+      "value": 0
+    },
+    {
+      "season": "ASO",
+      "year": 1980,
+      "value": 0
+    },
+    {
+      "season": "SON",
+      "year": 1980,
+      "value": 0.1
+    },
+    {
+      "season": "OND",
+      "year": 1980,
+      "value": 0.2
+    },
+    {
+      "season": "NDJ",
+      "year": 1980,
+      "value": 0.2
+    },
+    {
+      "season": "DJF",
+      "year": 1981,
+      "value": 0
+    },
+    {
+      "season": "JFM",
+      "year": 1981,
+      "value": -0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1981,
+      "value": -0.3
+    },
+    {
+      "season": "MAM",
+      "year": 1981,
+      "value": -0.3
+    },
+    {
+      "season": "AMJ",
+      "year": 1981,
+      "value": -0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 1981,
+      "value": -0.3
+    },
+    {
+      "season": "JJA",
+      "year": 1981,
+      "value": -0.3
+    },
+    {
+      "season": "JAS",
+      "year": 1981,
+      "value": -0.2
+    },
+    {
+      "season": "ASO",
+      "year": 1981,
+      "value": -0.1
+    },
+    {
+      "season": "SON",
+      "year": 1981,
+      "value": -0.2
+    },
+    {
+      "season": "OND",
+      "year": 1981,
+      "value": -0.2
+    },
+    {
+      "season": "NDJ",
+      "year": 1981,
+      "value": 0
+    },
+    {
+      "season": "DJF",
+      "year": 1982,
+      "value": 0.1
+    },
+    {
+      "season": "JFM",
+      "year": 1982,
+      "value": 0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1982,
+      "value": 0.4
+    },
+    {
+      "season": "MAM",
+      "year": 1982,
+      "value": 0.6
+    },
+    {
+      "season": "AMJ",
+      "year": 1982,
+      "value": 0.8
+    },
+    {
+      "season": "MJJ",
+      "year": 1982,
+      "value": 0.8
+    },
+    {
+      "season": "JJA",
+      "year": 1982,
+      "value": 0.9
+    },
+    {
+      "season": "JAS",
+      "year": 1982,
+      "value": 1.3
+    },
+    {
+      "season": "ASO",
+      "year": 1982,
+      "value": 1.8
+    },
+    {
+      "season": "SON",
+      "year": 1982,
+      "value": 2.2
+    },
+    {
+      "season": "OND",
+      "year": 1982,
+      "value": 2.4
+    },
+    {
+      "season": "NDJ",
+      "year": 1982,
+      "value": 2.5
+    },
+    {
+      "season": "DJF",
+      "year": 1983,
+      "value": 2.5
+    },
+    {
+      "season": "JFM",
+      "year": 1983,
+      "value": 2.2
+    },
+    {
+      "season": "FMA",
+      "year": 1983,
+      "value": 1.7
+    },
+    {
+      "season": "MAM",
+      "year": 1983,
+      "value": 1.4
+    },
+    {
+      "season": "AMJ",
+      "year": 1983,
+      "value": 1
+    },
+    {
+      "season": "MJJ",
+      "year": 1983,
+      "value": 0.6
+    },
+    {
+      "season": "JJA",
+      "year": 1983,
+      "value": 0.1
+    },
+    {
+      "season": "JAS",
+      "year": 1983,
+      "value": -0.2
+    },
+    {
+      "season": "ASO",
+      "year": 1983,
+      "value": -0.6
+    },
+    {
+      "season": "SON",
+      "year": 1983,
+      "value": -0.9
+    },
+    {
+      "season": "OND",
+      "year": 1983,
+      "value": -1.1
+    },
+    {
+      "season": "NDJ",
+      "year": 1983,
+      "value": -1
+    },
+    {
+      "season": "DJF",
+      "year": 1984,
+      "value": -0.5
+    },
+    {
+      "season": "JFM",
+      "year": 1984,
+      "value": -0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1984,
+      "value": -0.3
+    },
+    {
+      "season": "MAM",
+      "year": 1984,
+      "value": -0.5
+    },
+    {
+      "season": "AMJ",
+      "year": 1984,
+      "value": -0.6
+    },
+    {
+      "season": "MJJ",
+      "year": 1984,
+      "value": -0.4
+    },
+    {
+      "season": "JJA",
+      "year": 1984,
+      "value": -0.2
+    },
+    {
+      "season": "JAS",
+      "year": 1984,
+      "value": -0.1
+    },
+    {
+      "season": "ASO",
+      "year": 1984,
+      "value": -0.1
+    },
+    {
+      "season": "SON",
+      "year": 1984,
+      "value": -0.5
+    },
+    {
+      "season": "OND",
+      "year": 1984,
+      "value": -0.8
+    },
+    {
+      "season": "NDJ",
+      "year": 1984,
+      "value": -1
+    },
+    {
+      "season": "DJF",
+      "year": 1985,
+      "value": -0.8
+    },
+    {
+      "season": "JFM",
+      "year": 1985,
+      "value": -0.6
+    },
+    {
+      "season": "FMA",
+      "year": 1985,
+      "value": -0.6
+    },
+    {
+      "season": "MAM",
+      "year": 1985,
+      "value": -0.7
+    },
+    {
+      "season": "AMJ",
+      "year": 1985,
+      "value": -0.7
+    },
+    {
+      "season": "MJJ",
+      "year": 1985,
+      "value": -0.5
+    },
+    {
+      "season": "JJA",
+      "year": 1985,
+      "value": -0.4
+    },
+    {
+      "season": "JAS",
+      "year": 1985,
+      "value": -0.3
+    },
+    {
+      "season": "ASO",
+      "year": 1985,
+      "value": -0.2
+    },
+    {
+      "season": "SON",
+      "year": 1985,
+      "value": -0.2
+    },
+    {
+      "season": "OND",
+      "year": 1985,
+      "value": -0.1
+    },
+    {
+      "season": "NDJ",
+      "year": 1985,
+      "value": -0.2
+    },
+    {
+      "season": "DJF",
+      "year": 1986,
+      "value": -0.3
+    },
+    {
+      "season": "JFM",
+      "year": 1986,
+      "value": -0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1986,
+      "value": -0.2
+    },
+    {
+      "season": "MAM",
+      "year": 1986,
+      "value": -0.1
+    },
+    {
+      "season": "AMJ",
+      "year": 1986,
+      "value": -0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 1986,
+      "value": -0.1
+    },
+    {
+      "season": "JJA",
+      "year": 1986,
+      "value": 0.3
+    },
+    {
+      "season": "JAS",
+      "year": 1986,
+      "value": 0.6
+    },
+    {
+      "season": "ASO",
+      "year": 1986,
+      "value": 0.9
+    },
+    {
+      "season": "SON",
+      "year": 1986,
+      "value": 1.2
+    },
+    {
+      "season": "OND",
+      "year": 1986,
+      "value": 1.4
+    },
+    {
+      "season": "NDJ",
+      "year": 1986,
+      "value": 1.5
+    },
+    {
+      "season": "DJF",
+      "year": 1987,
+      "value": 1.6
+    },
+    {
+      "season": "JFM",
+      "year": 1987,
+      "value": 1.5
+    },
+    {
+      "season": "FMA",
+      "year": 1987,
+      "value": 1.3
+    },
+    {
+      "season": "MAM",
+      "year": 1987,
+      "value": 1
+    },
+    {
+      "season": "AMJ",
+      "year": 1987,
+      "value": 0.9
+    },
+    {
+      "season": "MJJ",
+      "year": 1987,
+      "value": 1.1
+    },
+    {
+      "season": "JJA",
+      "year": 1987,
+      "value": 1.3
+    },
+    {
+      "season": "JAS",
+      "year": 1987,
+      "value": 1.6
+    },
+    {
+      "season": "ASO",
+      "year": 1987,
+      "value": 1.5
+    },
+    {
+      "season": "SON",
+      "year": 1987,
+      "value": 1.3
+    },
+    {
+      "season": "OND",
+      "year": 1987,
+      "value": 1
+    },
+    {
+      "season": "NDJ",
+      "year": 1987,
+      "value": 0.9
+    },
+    {
+      "season": "DJF",
+      "year": 1988,
+      "value": 0.7
+    },
+    {
+      "season": "JFM",
+      "year": 1988,
+      "value": 0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1988,
+      "value": -0.2
+    },
+    {
+      "season": "MAM",
+      "year": 1988,
+      "value": -0.7
+    },
+    {
+      "season": "AMJ",
+      "year": 1988,
+      "value": -1.4
+    },
+    {
+      "season": "MJJ",
+      "year": 1988,
+      "value": -1.7
+    },
+    {
+      "season": "JJA",
+      "year": 1988,
+      "value": -1.6
+    },
+    {
+      "season": "JAS",
+      "year": 1988,
+      "value": -1.3
+    },
+    {
+      "season": "ASO",
+      "year": 1988,
+      "value": -1.4
+    },
+    {
+      "season": "SON",
+      "year": 1988,
+      "value": -1.6
+    },
+    {
+      "season": "OND",
+      "year": 1988,
+      "value": -1.9
+    },
+    {
+      "season": "NDJ",
+      "year": 1988,
+      "value": -1.9
+    },
+    {
+      "season": "DJF",
+      "year": 1989,
+      "value": -1.7
+    },
+    {
+      "season": "JFM",
+      "year": 1989,
+      "value": -1.4
+    },
+    {
+      "season": "FMA",
+      "year": 1989,
+      "value": -1.1
+    },
+    {
+      "season": "MAM",
+      "year": 1989,
+      "value": -0.8
+    },
+    {
+      "season": "AMJ",
+      "year": 1989,
+      "value": -0.6
+    },
+    {
+      "season": "MJJ",
+      "year": 1989,
+      "value": -0.4
+    },
+    {
+      "season": "JJA",
+      "year": 1989,
+      "value": -0.3
+    },
+    {
+      "season": "JAS",
+      "year": 1989,
+      "value": -0.3
+    },
+    {
+      "season": "ASO",
+      "year": 1989,
+      "value": -0.2
+    },
+    {
+      "season": "SON",
+      "year": 1989,
+      "value": -0.2
+    },
+    {
+      "season": "OND",
+      "year": 1989,
+      "value": -0.1
+    },
+    {
+      "season": "NDJ",
+      "year": 1989,
+      "value": 0
+    },
+    {
+      "season": "DJF",
+      "year": 1990,
+      "value": 0.2
+    },
+    {
+      "season": "JFM",
+      "year": 1990,
+      "value": 0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1990,
+      "value": 0.3
+    },
+    {
+      "season": "MAM",
+      "year": 1990,
+      "value": 0.3
+    },
+    {
+      "season": "AMJ",
+      "year": 1990,
+      "value": 0.2
+    },
+    {
+      "season": "MJJ",
+      "year": 1990,
+      "value": 0.2
+    },
+    {
+      "season": "JJA",
+      "year": 1990,
+      "value": 0.3
+    },
+    {
+      "season": "JAS",
+      "year": 1990,
+      "value": 0.4
+    },
+    {
+      "season": "ASO",
+      "year": 1990,
+      "value": 0.4
+    },
+    {
+      "season": "SON",
+      "year": 1990,
+      "value": 0.4
+    },
+    {
+      "season": "OND",
+      "year": 1990,
+      "value": 0.4
+    },
+    {
+      "season": "NDJ",
+      "year": 1990,
+      "value": 0.5
+    },
+    {
+      "season": "DJF",
+      "year": 1991,
+      "value": 0.6
+    },
+    {
+      "season": "JFM",
+      "year": 1991,
+      "value": 0.5
+    },
+    {
+      "season": "FMA",
+      "year": 1991,
+      "value": 0.4
+    },
+    {
+      "season": "MAM",
+      "year": 1991,
+      "value": 0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 1991,
+      "value": 0.5
+    },
+    {
+      "season": "MJJ",
+      "year": 1991,
+      "value": 0.7
+    },
+    {
+      "season": "JJA",
+      "year": 1991,
+      "value": 0.8
+    },
+    {
+      "season": "JAS",
+      "year": 1991,
+      "value": 0.8
+    },
+    {
+      "season": "ASO",
+      "year": 1991,
+      "value": 0.9
+    },
+    {
+      "season": "SON",
+      "year": 1991,
+      "value": 1.2
+    },
+    {
+      "season": "OND",
+      "year": 1991,
+      "value": 1.7
+    },
+    {
+      "season": "NDJ",
+      "year": 1991,
+      "value": 2.1
+    },
+    {
+      "season": "DJF",
+      "year": 1992,
+      "value": 2.3
+    },
+    {
+      "season": "JFM",
+      "year": 1992,
+      "value": 2.2
+    },
+    {
+      "season": "FMA",
+      "year": 1992,
+      "value": 2
+    },
+    {
+      "season": "MAM",
+      "year": 1992,
+      "value": 1.7
+    },
+    {
+      "season": "AMJ",
+      "year": 1992,
+      "value": 1.4
+    },
+    {
+      "season": "MJJ",
+      "year": 1992,
+      "value": 0.9
+    },
+    {
+      "season": "JJA",
+      "year": 1992,
+      "value": 0.5
+    },
+    {
+      "season": "JAS",
+      "year": 1992,
+      "value": 0.3
+    },
+    {
+      "season": "ASO",
+      "year": 1992,
+      "value": 0.2
+    },
+    {
+      "season": "SON",
+      "year": 1992,
+      "value": 0.1
+    },
+    {
+      "season": "OND",
+      "year": 1992,
+      "value": 0.1
+    },
+    {
+      "season": "NDJ",
+      "year": 1992,
+      "value": 0.3
+    },
+    {
+      "season": "DJF",
+      "year": 1993,
+      "value": 0.5
+    },
+    {
+      "season": "JFM",
+      "year": 1993,
+      "value": 0.7
+    },
+    {
+      "season": "FMA",
+      "year": 1993,
+      "value": 0.9
+    },
+    {
+      "season": "MAM",
+      "year": 1993,
+      "value": 1
+    },
+    {
+      "season": "AMJ",
+      "year": 1993,
+      "value": 0.9
+    },
+    {
+      "season": "MJJ",
+      "year": 1993,
+      "value": 0.7
+    },
+    {
+      "season": "JJA",
+      "year": 1993,
+      "value": 0.5
+    },
+    {
+      "season": "JAS",
+      "year": 1993,
+      "value": 0.5
+    },
+    {
+      "season": "ASO",
+      "year": 1993,
+      "value": 0.5
+    },
+    {
+      "season": "SON",
+      "year": 1993,
+      "value": 0.4
+    },
+    {
+      "season": "OND",
+      "year": 1993,
+      "value": 0.3
+    },
+    {
+      "season": "NDJ",
+      "year": 1993,
+      "value": 0.3
+    },
+    {
+      "season": "DJF",
+      "year": 1994,
+      "value": 0.3
+    },
+    {
+      "season": "JFM",
+      "year": 1994,
+      "value": 0.3
+    },
+    {
+      "season": "FMA",
+      "year": 1994,
+      "value": 0.4
+    },
+    {
+      "season": "MAM",
+      "year": 1994,
+      "value": 0.5
+    },
+    {
+      "season": "AMJ",
+      "year": 1994,
+      "value": 0.6
+    },
+    {
+      "season": "MJJ",
+      "year": 1994,
+      "value": 0.6
+    },
+    {
+      "season": "JJA",
+      "year": 1994,
+      "value": 0.7
+    },
+    {
+      "season": "JAS",
+      "year": 1994,
+      "value": 0.8
+    },
+    {
+      "season": "ASO",
+      "year": 1994,
+      "value": 1
+    },
+    {
+      "season": "SON",
+      "year": 1994,
+      "value": 1.1
+    },
+    {
+      "season": "OND",
+      "year": 1994,
+      "value": 1.3
+    },
+    {
+      "season": "NDJ",
+      "year": 1994,
+      "value": 1.4
+    },
+    {
+      "season": "DJF",
+      "year": 1995,
+      "value": 1.3
+    },
+    {
+      "season": "JFM",
+      "year": 1995,
+      "value": 1
+    },
+    {
+      "season": "FMA",
+      "year": 1995,
+      "value": 0.7
+    },
+    {
+      "season": "MAM",
+      "year": 1995,
+      "value": 0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 1995,
+      "value": 0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 1995,
+      "value": -0.1
+    },
+    {
+      "season": "JJA",
+      "year": 1995,
+      "value": -0.3
+    },
+    {
+      "season": "JAS",
+      "year": 1995,
+      "value": -0.5
+    },
+    {
+      "season": "ASO",
+      "year": 1995,
+      "value": -0.7
+    },
+    {
+      "season": "SON",
+      "year": 1995,
+      "value": -0.9
+    },
+    {
+      "season": "OND",
+      "year": 1995,
+      "value": -0.9
+    },
+    {
+      "season": "NDJ",
+      "year": 1995,
+      "value": -0.9
+    },
+    {
+      "season": "DJF",
+      "year": 1996,
+      "value": -0.9
+    },
+    {
+      "season": "JFM",
+      "year": 1996,
+      "value": -0.8
+    },
+    {
+      "season": "FMA",
+      "year": 1996,
+      "value": -0.6
+    },
+    {
+      "season": "MAM",
+      "year": 1996,
+      "value": -0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 1996,
+      "value": -0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 1996,
+      "value": -0.3
+    },
+    {
+      "season": "JJA",
+      "year": 1996,
+      "value": -0.2
+    },
+    {
+      "season": "JAS",
+      "year": 1996,
+      "value": -0.2
+    },
+    {
+      "season": "ASO",
+      "year": 1996,
+      "value": -0.2
+    },
+    {
+      "season": "SON",
+      "year": 1996,
+      "value": -0.3
+    },
+    {
+      "season": "OND",
+      "year": 1996,
+      "value": -0.3
+    },
+    {
+      "season": "NDJ",
+      "year": 1996,
+      "value": -0.3
+    },
+    {
+      "season": "DJF",
+      "year": 1997,
+      "value": -0.2
+    },
+    {
+      "season": "JFM",
+      "year": 1997,
+      "value": -0.1
+    },
+    {
+      "season": "FMA",
+      "year": 1997,
+      "value": 0.2
+    },
+    {
+      "season": "MAM",
+      "year": 1997,
+      "value": 0.5
+    },
+    {
+      "season": "AMJ",
+      "year": 1997,
+      "value": 1
+    },
+    {
+      "season": "MJJ",
+      "year": 1997,
+      "value": 1.3
+    },
+    {
+      "season": "JJA",
+      "year": 1997,
+      "value": 1.7
+    },
+    {
+      "season": "JAS",
+      "year": 1997,
+      "value": 2
+    },
+    {
+      "season": "ASO",
+      "year": 1997,
+      "value": 2.3
+    },
+    {
+      "season": "SON",
+      "year": 1997,
+      "value": 2.4
+    },
+    {
+      "season": "OND",
+      "year": 1997,
+      "value": 2.4
+    },
+    {
+      "season": "NDJ",
+      "year": 1997,
+      "value": 2.3
+    },
+    {
+      "season": "DJF",
+      "year": 1998,
+      "value": 2.2
+    },
+    {
+      "season": "JFM",
+      "year": 1998,
+      "value": 1.8
+    },
+    {
+      "season": "FMA",
+      "year": 1998,
+      "value": 1.3
+    },
+    {
+      "season": "MAM",
+      "year": 1998,
+      "value": 0.8
+    },
+    {
+      "season": "AMJ",
+      "year": 1998,
+      "value": 0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 1998,
+      "value": -0.5
+    },
+    {
+      "season": "JJA",
+      "year": 1998,
+      "value": -1.2
+    },
+    {
+      "season": "JAS",
+      "year": 1998,
+      "value": -1.4
+    },
+    {
+      "season": "ASO",
+      "year": 1998,
+      "value": -1.5
+    },
+    {
+      "season": "SON",
+      "year": 1998,
+      "value": -1.5
+    },
+    {
+      "season": "OND",
+      "year": 1998,
+      "value": -1.6
+    },
+    {
+      "season": "NDJ",
+      "year": 1998,
+      "value": -1.6
+    },
+    {
+      "season": "DJF",
+      "year": 1999,
+      "value": -1.5
+    },
+    {
+      "season": "JFM",
+      "year": 1999,
+      "value": -1.3
+    },
+    {
+      "season": "FMA",
+      "year": 1999,
+      "value": -1.1
+    },
+    {
+      "season": "MAM",
+      "year": 1999,
+      "value": -1
+    },
+    {
+      "season": "AMJ",
+      "year": 1999,
+      "value": -1
+    },
+    {
+      "season": "MJJ",
+      "year": 1999,
+      "value": -1
+    },
+    {
+      "season": "JJA",
+      "year": 1999,
+      "value": -1
+    },
+    {
+      "season": "JAS",
+      "year": 1999,
+      "value": -1
+    },
+    {
+      "season": "ASO",
+      "year": 1999,
+      "value": -1
+    },
+    {
+      "season": "SON",
+      "year": 1999,
+      "value": -1.1
+    },
+    {
+      "season": "OND",
+      "year": 1999,
+      "value": -1.4
+    },
+    {
+      "season": "NDJ",
+      "year": 1999,
+      "value": -1.6
+    },
+    {
+      "season": "DJF",
+      "year": 2000,
+      "value": -1.7
+    },
+    {
+      "season": "JFM",
+      "year": 2000,
+      "value": -1.4
+    },
+    {
+      "season": "FMA",
+      "year": 2000,
+      "value": -1.1
+    },
+    {
+      "season": "MAM",
+      "year": 2000,
+      "value": -0.8
+    },
+    {
+      "season": "AMJ",
+      "year": 2000,
+      "value": -0.6
+    },
+    {
+      "season": "MJJ",
+      "year": 2000,
+      "value": -0.5
+    },
+    {
+      "season": "JJA",
+      "year": 2000,
+      "value": -0.4
+    },
+    {
+      "season": "JAS",
+      "year": 2000,
+      "value": -0.4
+    },
+    {
+      "season": "ASO",
+      "year": 2000,
+      "value": -0.4
+    },
+    {
+      "season": "SON",
+      "year": 2000,
+      "value": -0.6
+    },
+    {
+      "season": "OND",
+      "year": 2000,
+      "value": -0.7
+    },
+    {
+      "season": "NDJ",
+      "year": 2000,
+      "value": -0.7
+    },
+    {
+      "season": "DJF",
+      "year": 2001,
+      "value": -0.6
+    },
+    {
+      "season": "JFM",
+      "year": 2001,
+      "value": -0.5
+    },
+    {
+      "season": "FMA",
+      "year": 2001,
+      "value": -0.5
+    },
+    {
+      "season": "MAM",
+      "year": 2001,
+      "value": -0.5
+    },
+    {
+      "season": "AMJ",
+      "year": 2001,
+      "value": -0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 2001,
+      "value": -0.1
+    },
+    {
+      "season": "JJA",
+      "year": 2001,
+      "value": 0
+    },
+    {
+      "season": "JAS",
+      "year": 2001,
+      "value": 0
+    },
+    {
+      "season": "ASO",
+      "year": 2001,
+      "value": 0
+    },
+    {
+      "season": "SON",
+      "year": 2001,
+      "value": -0.2
+    },
+    {
+      "season": "OND",
+      "year": 2001,
+      "value": -0.2
+    },
+    {
+      "season": "NDJ",
+      "year": 2001,
+      "value": -0.3
+    },
+    {
+      "season": "DJF",
+      "year": 2002,
+      "value": -0.1
+    },
+    {
+      "season": "JFM",
+      "year": 2002,
+      "value": 0
+    },
+    {
+      "season": "FMA",
+      "year": 2002,
+      "value": 0
+    },
+    {
+      "season": "MAM",
+      "year": 2002,
+      "value": 0.1
+    },
+    {
+      "season": "AMJ",
+      "year": 2002,
+      "value": 0.4
+    },
+    {
+      "season": "MJJ",
+      "year": 2002,
+      "value": 0.7
+    },
+    {
+      "season": "JJA",
+      "year": 2002,
+      "value": 0.9
+    },
+    {
+      "season": "JAS",
+      "year": 2002,
+      "value": 1.1
+    },
+    {
+      "season": "ASO",
+      "year": 2002,
+      "value": 1.3
+    },
+    {
+      "season": "SON",
+      "year": 2002,
+      "value": 1.4
+    },
+    {
+      "season": "OND",
+      "year": 2002,
+      "value": 1.5
+    },
+    {
+      "season": "NDJ",
+      "year": 2002,
+      "value": 1.2
+    },
+    {
+      "season": "DJF",
+      "year": 2003,
+      "value": 0.9
+    },
+    {
+      "season": "JFM",
+      "year": 2003,
+      "value": 0.5
+    },
+    {
+      "season": "FMA",
+      "year": 2003,
+      "value": 0.2
+    },
+    {
+      "season": "MAM",
+      "year": 2003,
+      "value": -0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 2003,
+      "value": -0.4
+    },
+    {
+      "season": "MJJ",
+      "year": 2003,
+      "value": -0.3
+    },
+    {
+      "season": "JJA",
+      "year": 2003,
+      "value": 0
+    },
+    {
+      "season": "JAS",
+      "year": 2003,
+      "value": 0.2
+    },
+    {
+      "season": "ASO",
+      "year": 2003,
+      "value": 0.2
+    },
+    {
+      "season": "SON",
+      "year": 2003,
+      "value": 0.2
+    },
+    {
+      "season": "OND",
+      "year": 2003,
+      "value": 0.3
+    },
+    {
+      "season": "NDJ",
+      "year": 2003,
+      "value": 0.3
+    },
+    {
+      "season": "DJF",
+      "year": 2004,
+      "value": 0.3
+    },
+    {
+      "season": "JFM",
+      "year": 2004,
+      "value": 0.1
+    },
+    {
+      "season": "FMA",
+      "year": 2004,
+      "value": 0.1
+    },
+    {
+      "season": "MAM",
+      "year": 2004,
+      "value": 0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 2004,
+      "value": 0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 2004,
+      "value": 0.5
+    },
+    {
+      "season": "JJA",
+      "year": 2004,
+      "value": 0.7
+    },
+    {
+      "season": "JAS",
+      "year": 2004,
+      "value": 0.8
+    },
+    {
+      "season": "ASO",
+      "year": 2004,
+      "value": 0.9
+    },
+    {
+      "season": "SON",
+      "year": 2004,
+      "value": 0.8
+    },
+    {
+      "season": "OND",
+      "year": 2004,
+      "value": 0.7
+    },
+    {
+      "season": "NDJ",
+      "year": 2004,
+      "value": 0.7
+    },
+    {
+      "season": "DJF",
+      "year": 2005,
+      "value": 0.6
+    },
+    {
+      "season": "JFM",
+      "year": 2005,
+      "value": 0.4
+    },
+    {
+      "season": "FMA",
+      "year": 2005,
+      "value": 0.3
+    },
+    {
+      "season": "MAM",
+      "year": 2005,
+      "value": 0.3
+    },
+    {
+      "season": "AMJ",
+      "year": 2005,
+      "value": 0.2
+    },
+    {
+      "season": "MJJ",
+      "year": 2005,
+      "value": 0
+    },
+    {
+      "season": "JJA",
+      "year": 2005,
+      "value": -0.1
+    },
+    {
+      "season": "JAS",
+      "year": 2005,
+      "value": -0.1
+    },
+    {
+      "season": "ASO",
+      "year": 2005,
+      "value": 0
+    },
+    {
+      "season": "SON",
+      "year": 2005,
+      "value": -0.2
+    },
+    {
+      "season": "OND",
+      "year": 2005,
+      "value": -0.5
+    },
+    {
+      "season": "NDJ",
+      "year": 2005,
+      "value": -0.8
+    },
+    {
+      "season": "DJF",
+      "year": 2006,
+      "value": -0.9
+    },
+    {
+      "season": "JFM",
+      "year": 2006,
+      "value": -0.9
+    },
+    {
+      "season": "FMA",
+      "year": 2006,
+      "value": -0.6
+    },
+    {
+      "season": "MAM",
+      "year": 2006,
+      "value": -0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 2006,
+      "value": -0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 2006,
+      "value": 0
+    },
+    {
+      "season": "JJA",
+      "year": 2006,
+      "value": 0.1
+    },
+    {
+      "season": "JAS",
+      "year": 2006,
+      "value": 0.3
+    },
+    {
+      "season": "ASO",
+      "year": 2006,
+      "value": 0.5
+    },
+    {
+      "season": "SON",
+      "year": 2006,
+      "value": 0.8
+    },
+    {
+      "season": "OND",
+      "year": 2006,
+      "value": 0.9
+    },
+    {
+      "season": "NDJ",
+      "year": 2006,
+      "value": 0.9
+    },
+    {
+      "season": "DJF",
+      "year": 2007,
+      "value": 0.6
+    },
+    {
+      "season": "JFM",
+      "year": 2007,
+      "value": 0.2
+    },
+    {
+      "season": "FMA",
+      "year": 2007,
+      "value": -0.2
+    },
+    {
+      "season": "MAM",
+      "year": 2007,
+      "value": -0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 2007,
+      "value": -0.4
+    },
+    {
+      "season": "MJJ",
+      "year": 2007,
+      "value": -0.5
+    },
+    {
+      "season": "JJA",
+      "year": 2007,
+      "value": -0.6
+    },
+    {
+      "season": "JAS",
+      "year": 2007,
+      "value": -0.8
+    },
+    {
+      "season": "ASO",
+      "year": 2007,
+      "value": -1
+    },
+    {
+      "season": "SON",
+      "year": 2007,
+      "value": -1.3
+    },
+    {
+      "season": "OND",
+      "year": 2007,
+      "value": -1.4
+    },
+    {
+      "season": "NDJ",
+      "year": 2007,
+      "value": -1.5
+    },
+    {
+      "season": "DJF",
+      "year": 2008,
+      "value": -1.6
+    },
+    {
+      "season": "JFM",
+      "year": 2008,
+      "value": -1.5
+    },
+    {
+      "season": "FMA",
+      "year": 2008,
+      "value": -1.3
+    },
+    {
+      "season": "MAM",
+      "year": 2008,
+      "value": -0.9
+    },
+    {
+      "season": "AMJ",
+      "year": 2008,
+      "value": -0.8
+    },
+    {
+      "season": "MJJ",
+      "year": 2008,
+      "value": -0.5
+    },
+    {
+      "season": "JJA",
+      "year": 2008,
+      "value": -0.3
+    },
+    {
+      "season": "JAS",
+      "year": 2008,
+      "value": -0.2
+    },
+    {
+      "season": "ASO",
+      "year": 2008,
+      "value": -0.3
+    },
+    {
+      "season": "SON",
+      "year": 2008,
+      "value": -0.4
+    },
+    {
+      "season": "OND",
+      "year": 2008,
+      "value": -0.6
+    },
+    {
+      "season": "NDJ",
+      "year": 2008,
+      "value": -0.8
+    },
+    {
+      "season": "DJF",
+      "year": 2009,
+      "value": -0.9
+    },
+    {
+      "season": "JFM",
+      "year": 2009,
+      "value": -0.8
+    },
+    {
+      "season": "FMA",
+      "year": 2009,
+      "value": -0.7
+    },
+    {
+      "season": "MAM",
+      "year": 2009,
+      "value": -0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 2009,
+      "value": -0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 2009,
+      "value": 0.1
+    },
+    {
+      "season": "JJA",
+      "year": 2009,
+      "value": 0.3
+    },
+    {
+      "season": "JAS",
+      "year": 2009,
+      "value": 0.4
+    },
+    {
+      "season": "ASO",
+      "year": 2009,
+      "value": 0.6
+    },
+    {
+      "season": "SON",
+      "year": 2009,
+      "value": 0.9
+    },
+    {
+      "season": "OND",
+      "year": 2009,
+      "value": 1.3
+    },
+    {
+      "season": "NDJ",
+      "year": 2009,
+      "value": 1.6
+    },
+    {
+      "season": "DJF",
+      "year": 2010,
+      "value": 1.5
+    },
+    {
+      "season": "JFM",
+      "year": 2010,
+      "value": 1.1
+    },
+    {
+      "season": "FMA",
+      "year": 2010,
+      "value": 0.6
+    },
+    {
+      "season": "MAM",
+      "year": 2010,
+      "value": 0.1
+    },
+    {
+      "season": "AMJ",
+      "year": 2010,
+      "value": -0.5
+    },
+    {
+      "season": "MJJ",
+      "year": 2010,
+      "value": -1
+    },
+    {
+      "season": "JJA",
+      "year": 2010,
+      "value": -1.3
+    },
+    {
+      "season": "JAS",
+      "year": 2010,
+      "value": -1.5
+    },
+    {
+      "season": "ASO",
+      "year": 2010,
+      "value": -1.7
+    },
+    {
+      "season": "SON",
+      "year": 2010,
+      "value": -1.7
+    },
+    {
+      "season": "OND",
+      "year": 2010,
+      "value": -1.7
+    },
+    {
+      "season": "NDJ",
+      "year": 2010,
+      "value": -1.6
+    },
+    {
+      "season": "DJF",
+      "year": 2011,
+      "value": -1.4
+    },
+    {
+      "season": "JFM",
+      "year": 2011,
+      "value": -1.2
+    },
+    {
+      "season": "FMA",
+      "year": 2011,
+      "value": -0.9
+    },
+    {
+      "season": "MAM",
+      "year": 2011,
+      "value": -0.7
+    },
+    {
+      "season": "AMJ",
+      "year": 2011,
+      "value": -0.5
+    },
+    {
+      "season": "MJJ",
+      "year": 2011,
+      "value": -0.3
+    },
+    {
+      "season": "JJA",
+      "year": 2011,
+      "value": -0.4
+    },
+    {
+      "season": "JAS",
+      "year": 2011,
+      "value": -0.5
+    },
+    {
+      "season": "ASO",
+      "year": 2011,
+      "value": -0.7
+    },
+    {
+      "season": "SON",
+      "year": 2011,
+      "value": -0.9
+    },
+    {
+      "season": "OND",
+      "year": 2011,
+      "value": -1
+    },
+    {
+      "season": "NDJ",
+      "year": 2011,
+      "value": -1
+    },
+    {
+      "season": "DJF",
+      "year": 2012,
+      "value": -0.8
+    },
+    {
+      "season": "JFM",
+      "year": 2012,
+      "value": -0.6
+    },
+    {
+      "season": "FMA",
+      "year": 2012,
+      "value": -0.6
+    },
+    {
+      "season": "MAM",
+      "year": 2012,
+      "value": -0.5
+    },
+    {
+      "season": "AMJ",
+      "year": 2012,
+      "value": -0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 2012,
+      "value": 0
+    },
+    {
+      "season": "JJA",
+      "year": 2012,
+      "value": 0.3
+    },
+    {
+      "season": "JAS",
+      "year": 2012,
+      "value": 0.4
+    },
+    {
+      "season": "ASO",
+      "year": 2012,
+      "value": 0.4
+    },
+    {
+      "season": "SON",
+      "year": 2012,
+      "value": 0.2
+    },
+    {
+      "season": "OND",
+      "year": 2012,
+      "value": -0.1
+    },
+    {
+      "season": "NDJ",
+      "year": 2012,
+      "value": -0.4
+    },
+    {
+      "season": "DJF",
+      "year": 2013,
+      "value": -0.6
+    },
+    {
+      "season": "JFM",
+      "year": 2013,
+      "value": -0.6
+    },
+    {
+      "season": "FMA",
+      "year": 2013,
+      "value": -0.5
+    },
+    {
+      "season": "MAM",
+      "year": 2013,
+      "value": -0.4
+    },
+    {
+      "season": "AMJ",
+      "year": 2013,
+      "value": -0.4
+    },
+    {
+      "season": "MJJ",
+      "year": 2013,
+      "value": -0.4
+    },
+    {
+      "season": "JJA",
+      "year": 2013,
+      "value": -0.4
+    },
+    {
+      "season": "JAS",
+      "year": 2013,
+      "value": -0.3
+    },
+    {
+      "season": "ASO",
+      "year": 2013,
+      "value": -0.3
+    },
+    {
+      "season": "SON",
+      "year": 2013,
+      "value": -0.2
+    },
+    {
+      "season": "OND",
+      "year": 2013,
+      "value": -0.2
+    },
+    {
+      "season": "NDJ",
+      "year": 2013,
+      "value": -0.3
+    },
+    {
+      "season": "DJF",
+      "year": 2014,
+      "value": -0.5
+    },
+    {
+      "season": "JFM",
+      "year": 2014,
+      "value": -0.5
+    },
+    {
+      "season": "FMA",
+      "year": 2014,
+      "value": -0.3
+    },
+    {
+      "season": "MAM",
+      "year": 2014,
+      "value": 0
+    },
+    {
+      "season": "AMJ",
+      "year": 2014,
+      "value": 0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 2014,
+      "value": 0
+    },
+    {
+      "season": "JJA",
+      "year": 2014,
+      "value": -0.1
+    },
+    {
+      "season": "JAS",
+      "year": 2014,
+      "value": -0.1
+    },
+    {
+      "season": "ASO",
+      "year": 2014,
+      "value": 0.1
+    },
+    {
+      "season": "SON",
+      "year": 2014,
+      "value": 0.4
+    },
+    {
+      "season": "OND",
+      "year": 2014,
+      "value": 0.5
+    },
+    {
+      "season": "NDJ",
+      "year": 2014,
+      "value": 0.6
+    },
+    {
+      "season": "DJF",
+      "year": 2015,
+      "value": 0.5
+    },
+    {
+      "season": "JFM",
+      "year": 2015,
+      "value": 0.4
+    },
+    {
+      "season": "FMA",
+      "year": 2015,
+      "value": 0.5
+    },
+    {
+      "season": "MAM",
+      "year": 2015,
+      "value": 0.6
+    },
+    {
+      "season": "AMJ",
+      "year": 2015,
+      "value": 0.8
+    },
+    {
+      "season": "MJJ",
+      "year": 2015,
+      "value": 1
+    },
+    {
+      "season": "JJA",
+      "year": 2015,
+      "value": 1.3
+    },
+    {
+      "season": "JAS",
+      "year": 2015,
+      "value": 1.6
+    },
+    {
+      "season": "ASO",
+      "year": 2015,
+      "value": 1.9
+    },
+    {
+      "season": "SON",
+      "year": 2015,
+      "value": 2.2
+    },
+    {
+      "season": "OND",
+      "year": 2015,
+      "value": 2.3
+    },
+    {
+      "season": "NDJ",
+      "year": 2015,
+      "value": 2.4
+    },
+    {
+      "season": "DJF",
+      "year": 2016,
+      "value": 2.2
+    },
+    {
+      "season": "JFM",
+      "year": 2016,
+      "value": 1.8
+    },
+    {
+      "season": "FMA",
+      "year": 2016,
+      "value": 1.3
+    },
+    {
+      "season": "MAM",
+      "year": 2016,
+      "value": 0.5
+    },
+    {
+      "season": "AMJ",
+      "year": 2016,
+      "value": -0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 2016,
+      "value": -0.6
+    },
+    {
+      "season": "JJA",
+      "year": 2016,
+      "value": -0.9
+    },
+    {
+      "season": "JAS",
+      "year": 2016,
+      "value": -1
+    },
+    {
+      "season": "ASO",
+      "year": 2016,
+      "value": -1.1
+    },
+    {
+      "season": "SON",
+      "year": 2016,
+      "value": -1.1
+    },
+    {
+      "season": "OND",
+      "year": 2016,
+      "value": -1.1
+    },
+    {
+      "season": "NDJ",
+      "year": 2016,
+      "value": -1
+    },
+    {
+      "season": "DJF",
+      "year": 2017,
+      "value": -0.7
+    },
+    {
+      "season": "JFM",
+      "year": 2017,
+      "value": -0.5
+    },
+    {
+      "season": "FMA",
+      "year": 2017,
+      "value": -0.3
+    },
+    {
+      "season": "MAM",
+      "year": 2017,
+      "value": -0.1
+    },
+    {
+      "season": "AMJ",
+      "year": 2017,
+      "value": 0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 2017,
+      "value": 0.1
+    },
+    {
+      "season": "JJA",
+      "year": 2017,
+      "value": -0.2
+    },
+    {
+      "season": "JAS",
+      "year": 2017,
+      "value": -0.5
+    },
+    {
+      "season": "ASO",
+      "year": 2017,
+      "value": -0.7
+    },
+    {
+      "season": "SON",
+      "year": 2017,
+      "value": -1
+    },
+    {
+      "season": "OND",
+      "year": 2017,
+      "value": -1.1
+    },
+    {
+      "season": "NDJ",
+      "year": 2017,
+      "value": -1.3
+    },
+    {
+      "season": "DJF",
+      "year": 2018,
+      "value": -1.1
+    },
+    {
+      "season": "JFM",
+      "year": 2018,
+      "value": -1
+    },
+    {
+      "season": "FMA",
+      "year": 2018,
+      "value": -0.9
+    },
+    {
+      "season": "MAM",
+      "year": 2018,
+      "value": -0.7
+    },
+    {
+      "season": "AMJ",
+      "year": 2018,
+      "value": -0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 2018,
+      "value": 0
+    },
+    {
+      "season": "JJA",
+      "year": 2018,
+      "value": 0.1
+    },
+    {
+      "season": "JAS",
+      "year": 2018,
+      "value": 0.2
+    },
+    {
+      "season": "ASO",
+      "year": 2018,
+      "value": 0.4
+    },
+    {
+      "season": "SON",
+      "year": 2018,
+      "value": 0.7
+    },
+    {
+      "season": "OND",
+      "year": 2018,
+      "value": 0.8
+    },
+    {
+      "season": "NDJ",
+      "year": 2018,
+      "value": 0.7
+    },
+    {
+      "season": "DJF",
+      "year": 2019,
+      "value": 0.6
+    },
+    {
+      "season": "JFM",
+      "year": 2019,
+      "value": 0.6
+    },
+    {
+      "season": "FMA",
+      "year": 2019,
+      "value": 0.6
+    },
+    {
+      "season": "MAM",
+      "year": 2019,
+      "value": 0.5
+    },
+    {
+      "season": "AMJ",
+      "year": 2019,
+      "value": 0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 2019,
+      "value": 0.2
+    },
+    {
+      "season": "JJA",
+      "year": 2019,
+      "value": 0
+    },
+    {
+      "season": "JAS",
+      "year": 2019,
+      "value": -0.1
+    },
+    {
+      "season": "ASO",
+      "year": 2019,
+      "value": 0
+    },
+    {
+      "season": "SON",
+      "year": 2019,
+      "value": 0.1
+    },
+    {
+      "season": "OND",
+      "year": 2019,
+      "value": 0.2
+    },
+    {
+      "season": "NDJ",
+      "year": 2019,
+      "value": 0.2
+    },
+    {
+      "season": "DJF",
+      "year": 2020,
+      "value": 0.1
+    },
+    {
+      "season": "JFM",
+      "year": 2020,
+      "value": 0.1
+    },
+    {
+      "season": "FMA",
+      "year": 2020,
+      "value": 0
+    },
+    {
+      "season": "MAM",
+      "year": 2020,
+      "value": -0.3
+    },
+    {
+      "season": "AMJ",
+      "year": 2020,
+      "value": -0.6
+    },
+    {
+      "season": "MJJ",
+      "year": 2020,
+      "value": -0.8
+    },
+    {
+      "season": "JJA",
+      "year": 2020,
+      "value": -0.8
+    },
+    {
+      "season": "JAS",
+      "year": 2020,
+      "value": -0.9
+    },
+    {
+      "season": "ASO",
+      "year": 2020,
+      "value": -1.2
+    },
+    {
+      "season": "SON",
+      "year": 2020,
+      "value": -1.5
+    },
+    {
+      "season": "OND",
+      "year": 2020,
+      "value": -1.5
+    },
+    {
+      "season": "NDJ",
+      "year": 2020,
+      "value": -1.4
+    },
+    {
+      "season": "DJF",
+      "year": 2021,
+      "value": -1.2
+    },
+    {
+      "season": "JFM",
+      "year": 2021,
+      "value": -1
+    },
+    {
+      "season": "FMA",
+      "year": 2021,
+      "value": -1
+    },
+    {
+      "season": "MAM",
+      "year": 2021,
+      "value": -0.8
+    },
+    {
+      "season": "AMJ",
+      "year": 2021,
+      "value": -0.6
+    },
+    {
+      "season": "MJJ",
+      "year": 2021,
+      "value": -0.5
+    },
+    {
+      "season": "JJA",
+      "year": 2021,
+      "value": -0.6
+    },
+    {
+      "season": "JAS",
+      "year": 2021,
+      "value": -0.7
+    },
+    {
+      "season": "ASO",
+      "year": 2021,
+      "value": -0.9
+    },
+    {
+      "season": "SON",
+      "year": 2021,
+      "value": -1.1
+    },
+    {
+      "season": "OND",
+      "year": 2021,
+      "value": -1.2
+    },
+    {
+      "season": "NDJ",
+      "year": 2021,
+      "value": -1.2
+    },
+    {
+      "season": "DJF",
+      "year": 2022,
+      "value": -1.2
+    },
+    {
+      "season": "JFM",
+      "year": 2022,
+      "value": -1.2
+    },
+    {
+      "season": "FMA",
+      "year": 2022,
+      "value": -1.3
+    },
+    {
+      "season": "MAM",
+      "year": 2022,
+      "value": -1.3
+    },
+    {
+      "season": "AMJ",
+      "year": 2022,
+      "value": -1.2
+    },
+    {
+      "season": "MJJ",
+      "year": 2022,
+      "value": -1
+    },
+    {
+      "season": "JJA",
+      "year": 2022,
+      "value": -0.9
+    },
+    {
+      "season": "JAS",
+      "year": 2022,
+      "value": -1
+    },
+    {
+      "season": "ASO",
+      "year": 2022,
+      "value": -1.1
+    },
+    {
+      "season": "SON",
+      "year": 2022,
+      "value": -1.1
+    },
+    {
+      "season": "OND",
+      "year": 2022,
+      "value": -1
+    },
+    {
+      "season": "NDJ",
+      "year": 2022,
+      "value": -1
+    },
+    {
+      "season": "DJF",
+      "year": 2023,
+      "value": -0.8
+    },
+    {
+      "season": "JFM",
+      "year": 2023,
+      "value": -0.6
+    },
+    {
+      "season": "FMA",
+      "year": 2023,
+      "value": -0.4
+    },
+    {
+      "season": "MAM",
+      "year": 2023,
+      "value": -0.2
+    },
+    {
+      "season": "AMJ",
+      "year": 2023,
+      "value": 0.1
+    },
+    {
+      "season": "MJJ",
+      "year": 2023,
+      "value": 0.4
+    },
+    {
+      "season": "JJA",
+      "year": 2023,
+      "value": 0.6
+    },
+    {
+      "season": "JAS",
+      "year": 2023,
+      "value": 0.9
+    },
+    {
+      "season": "ASO",
+      "year": 2023,
+      "value": 1.1
+    },
+    {
+      "season": "SON",
+      "year": 2023,
+      "value": 1.4
+    },
+    {
+      "season": "OND",
+      "year": 2023,
+      "value": 1.5
+    },
+    {
+      "season": "NDJ",
+      "year": 2023,
+      "value": 1.5
+    },
+    {
+      "season": "DJF",
+      "year": 2024,
+      "value": 1.2
+    },
+    {
+      "season": "JFM",
+      "year": 2024,
+      "value": 0.9
+    },
+    {
+      "season": "FMA",
+      "year": 2024,
+      "value": 0.5
+    },
+    {
+      "season": "MAM",
+      "year": 2024,
+      "value": 0.1
+    },
+    {
+      "season": "AMJ",
+      "year": 2024,
+      "value": -0.3
+    },
+    {
+      "season": "MJJ",
+      "year": 2024,
+      "value": -0.5
+    },
+    {
+      "season": "JJA",
+      "year": 2024,
+      "value": -0.5
+    },
+    {
+      "season": "JAS",
+      "year": 2024,
+      "value": -0.6
+    },
+    {
+      "season": "ASO",
+      "year": 2024,
+      "value": -0.8
+    },
+    {
+      "season": "SON",
+      "year": 2024,
+      "value": -0.8
+    },
+    {
+      "season": "OND",
+      "year": 2024,
+      "value": -0.9
+    },
+    {
+      "season": "NDJ",
+      "year": 2024,
+      "value": -1.1
+    },
+    {
+      "season": "DJF",
+      "year": 2025,
+      "value": -1.1
+    },
+    {
+      "season": "JFM",
+      "year": 2025,
+      "value": -0.9
+    },
+    {
+      "season": "FMA",
+      "year": 2025,
+      "value": -0.7
+    },
+    {
+      "season": "MAM",
+      "year": 2025,
+      "value": -0.5
+    },
+    {
+      "season": "AMJ",
+      "year": 2025,
+      "value": -0.5
+    },
+    {
+      "season": "MJJ",
+      "year": 2025,
+      "value": -0.4
+    },
+    {
+      "season": "JJA",
+      "year": 2025,
+      "value": -0.5
+    },
+    {
+      "season": "JAS",
+      "year": 2025,
+      "value": -0.6
+    },
+    {
+      "season": "ASO",
+      "year": 2025,
+      "value": -0.8
+    },
+    {
+      "season": "SON",
+      "year": 2025,
+      "value": -0.9
+    },
+    {
+      "season": "OND",
+      "year": 2025,
+      "value": -0.9
+    },
+    {
+      "season": "NDJ",
+      "year": 2025,
+      "value": -1
+    },
+    {
+      "season": "DJF",
+      "year": 2026,
+      "value": -0.9
+    },
+    {
+      "season": "JFM",
+      "year": 2026,
+      "value": -0.7
+    },
+    {
+      "season": "FMA",
+      "year": 2026,
+      "value": -0.4
+    },
+    {
+      "season": "MAM",
+      "year": 2026,
+      "value": 0
+    },
+    {
+      "season": "AMJ",
+      "year": 2026,
+      "value": 0.5
+    }
+  ]
+}

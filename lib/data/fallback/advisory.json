@@ -1,0 +1,5 @@
+{
+  "_comment": "Used only when the CPC ENSO Diagnostic Discussion cannot be fetched or parsed. Values as stated in the discussion issued on asOf.",
+  "asOf": "2026-10-08",
+  "advisoryStatus": "El Niño Advisory"
+}

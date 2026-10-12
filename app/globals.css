@@ -1,0 +1,65 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* .theme-light re-scopes the light tokens below an ancestor `.dark` — the
+   widget embed uses it to FORCE light regardless of any outer theme class. */
+:root,
+.theme-light {
+  /* Light mode — off-white paper, deep-navy ink */
+  --c-bg: 247 249 251; /* #F7F9FB */
+  --c-surface: 255 255 255;
+  --c-surface2: 238 242 247;
+  --c-ink: 11 29 51; /* #0B1D33 */
+  --c-ink-muted: 71 88 109;
+  /* WCAG AA at small sizes (≥4.5:1) against every light surface. */
+  --c-ink-faint: 90 105 127;
+  --c-line: 224 231 239;
+  --c-accent: 232 96 76; /* #E8604C */
+}
+
+.dark {
+  /* Dark mode — deep ocean navy surfaces */
+  --c-bg: 11 29 51; /* #0B1D33 */
+  --c-surface: 18 38 63;
+  --c-surface2: 26 50 80;
+  --c-ink: 232 238 245;
+  --c-ink-muted: 159 176 196;
+  /* WCAG AA at small sizes (≥4.5:1) against every dark surface. */
+  --c-ink-faint: 138 157 179;
+  --c-line: 30 53 80;
+  --c-accent: 232 96 76;
+}
+
+body {
+  @apply bg-bg text-ink antialiased;
+  font-feature-settings: 'cv02', 'cv11';
+}
+
+/* Big data numbers always use tabular figures */
+.tnum {
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: 'tnum';
+}
+
+/* Visible focus for keyboard users */
+:focus-visible {
+  outline: 2px solid rgb(var(--c-accent));
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+::selection {
+  background: rgb(var(--c-accent) / 0.25);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
